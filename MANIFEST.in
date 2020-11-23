@@ -1,0 +1,2 @@
+include crandom.cpp
+include singleton.h
